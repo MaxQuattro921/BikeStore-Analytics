@@ -51,8 +51,8 @@ This project leverages SQL, Excel, and Tableau to create an interactive analytic
 ## Screenshots
 
 <p align="center">
-  <img src="ExcelPhoto.JPG" alt="Excel Dashboard Photo" height="300px" />
-  <img src="TableauPhoto.JPG" alt="Tableau Dashboard Photo" height="300px" />
+  <img src="ExcelPhoto.JPG" alt="Excel Dashboard Photo" height="400px" />
+  <img src="TableauPhoto.JPG" alt="Tableau Dashboard Photo" height="400px" />
 </p>
 
 
